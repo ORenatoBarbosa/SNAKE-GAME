@@ -2,7 +2,7 @@
 
 O clássico jogo da cobrinha, com  Python Tkinter.
 
-O jogo é igual ao original: uma cobra tentando comer uma maçã. Você é a cobra; mova-se com as setas do teclado e evite comer o próprio rabo.
+O jogo é igual ao original: uma cobra tentando comer uma maçã. A cobra é preta, e a maçã é roxa. Você é a cobra; mova-se com as setas do teclado e evite comer o próprio rabo.
 
 Nesta versão, não é possível mover-se pelas paredes.
 
